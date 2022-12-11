@@ -1,0 +1,16 @@
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\bin\Debug\RenderingApp.exe.config
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\bin\Debug\RenderingApp.exe
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\bin\Debug\RenderingApp.pdb
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.csproj.AssemblyReference.cache
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\App.g.cs
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.cache
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.lref
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\MainWindow.baml
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.g.resources
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.Properties.Resources.resources
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.csproj.GenerateResource.cache
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.exe
+C:\Users\Мария\source\repos\FrontEnd_3M\RenderingApp\obj\Debug\RenderingApp.pdb
