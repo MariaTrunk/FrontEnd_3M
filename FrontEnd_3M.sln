@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderingApp", "RenderingApp\RenderingApp.csproj", "{86300EB2-18B1-448F-AB6E-A41EB4E93005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fly", "Fly\Fly.csproj", "{6F07D0F5-94E1-40F1-849C-76FC1C720D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollingPlatformGame", "ScrollingPlatformGame\ScrollingPlatformGame.csproj", "{9273AA86-806D-46BD-A416-80F9D9B51C50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{86300EB2-18B1-448F-AB6E-A41EB4E93005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86300EB2-18B1-448F-AB6E-A41EB4E93005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86300EB2-18B1-448F-AB6E-A41EB4E93005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F07D0F5-94E1-40F1-849C-76FC1C720D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F07D0F5-94E1-40F1-849C-76FC1C720D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F07D0F5-94E1-40F1-849C-76FC1C720D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F07D0F5-94E1-40F1-849C-76FC1C720D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9273AA86-806D-46BD-A416-80F9D9B51C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273AA86-806D-46BD-A416-80F9D9B51C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273AA86-806D-46BD-A416-80F9D9B51C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273AA86-806D-46BD-A416-80F9D9B51C50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
